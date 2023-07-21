@@ -1,6 +1,10 @@
-# Sentisonics-Your Emotion-Driven Spotify Player :musical_note: :sparkles:
+<h1 align="center">
+Sentisonics-Your Emotion-Driven Spotify Player :musical_note: :sparkles:
+</h1>
 
 <!--[Project Logo](path_to_logo.png) (Optional: Include a logo or relevant image for your project)-->
+![sentisonics](https://github.com/Prajjwal-Chauhan/Sentisonics_Your-Emotion-Driven-Spotify-Player/assets/83890311/f8791afe-9d76-45a0-a581-d3b0c0602500)
+
 
 ## :muscle: Introduction
 
@@ -47,9 +51,10 @@ Once you have obtained these credentials from the Spotify Developer Dashboard, u
 
 With your Spotify API credentials all set, you are now ready to experience the enchanting world of Sentisonics! :tada: Launch the application, let the camera capture your emotions, and immerse yourself in a curated musical journey that resonates with your feelings. Whether you're feeling pumped up, reflective, or anything in between, Sentisonics will always have the perfect playlist ready for you. :headphones: Enjoy the music that mirrors your soul! :sparkles:
 
-<!--## :video_camera: Walkthrough Video
+## :video_camera: Walkthrough Video
 
-[Include a link to the walkthrough video, either hosted on a video sharing platform or within the repository itself. The video should demonstrate the usage of the Sentisonics project, showing how the emotion detection works and how Spotify playlists are seamlessly integrated.]-->
+[Click here](https://www.linkedin.com/posts/prajjwal-chauhan-0a4ba820a_sentisonics-emotiondrivenmusic-musiclovers-activity-7088111147278622720-kGyJ?utm_source=share&utm_medium=member_desktop) to check out the Walkthrough video.
+
 
 ## :raised_hands: Contributing
 
